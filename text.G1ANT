@@ -1,0 +1,7 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+♥myText = 123456789ThisIsMyText
+-addressing the 4th character in a variable:
+dialog ♥myText⟦4⟧
+-addressing characters from 4 to 13 in a variable:
+dialog ♥mytext⟦4:13⟧
